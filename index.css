@@ -1,0 +1,43 @@
+body{
+	background-image: url("1.jpg");
+	background-color: black;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color:white;
+}
+h1{
+	position: center;
+	color: white;
+}
+table{
+
+	border-style:solid;
+	border-color:black;
+	caption-side: top;
+	position: center;
+	color:white;
+	background: rgba(0, 0, 20, 0.90);
+	width: 200px; 
+	margin: 0 auto; 
+	text-align: left;
+	border-radius: 20px;
+	box-shadow: black 5px 2px 2px 2px;
+}
+
+td{
+	border: 0;
+	caption-side: top;
+	position: center;
+	
+	
+}
+
+
+tr{
+	border-style:none;
+	caption-side: top;
+	position: center;
+	
+	
+}
